@@ -38,10 +38,15 @@ Para probar el proyecto clona el repositorio y abre el proyecto en tu IDE favori
   <div style="flex: 1;">
     <ul>
       <li>Autenticación y autorización de usuarios</li>
+      <img src="https://github.com/Fernandofcsp/forohub/assets/73980852/d1879d4d-dcff-4bc9-bc7a-4bc7095661fe" alt="Animación" style="width:50%;">
       <li>Crear, leer, actualizar y eliminar tópicos</li>
+      <img src="https://github.com/Fernandofcsp/forohub/assets/73980852/6fcc06f7-a424-4504-9097-f07041056726" alt="Animación" style="width:50%;">
       <li>Crear, leer, actualizar y eliminar cursos</li>
+      <img src="https://github.com/Fernandofcsp/forohub/assets/73980852/a7aed556-97c7-4252-8ae8-e96bf64b9afb" alt="Animación" style="width:50%;">
       <li>Crear, leer, actualizar y eliminar usuarios</li>
+      <img src="https://github.com/Fernandofcsp/forohub/assets/73980852/00d9c9ca-1a43-466c-82e2-52d90be60dd6" alt="Animación" style="width:50%;">
       <li>Crear, leer, actualizar y eliminar respuestas a tópicos</li>
+      <img src="https://github.com/Fernandofcsp/forohub/assets/73980852/f63a1db8-bcd9-4f30-9486-62843a0f9059" alt="Animación" style="width:50%;">
     </ul>
   </div>
 </div>
