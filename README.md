@@ -4,7 +4,6 @@ ForoHub es una API que te permite explorar y gestionar tópicos y usuarios en un
 
 <img src="https://github.com/Fernandofcsp/forohub/assets/73980852/961285d8-d11b-4090-b48b-94ebc35ae04a" alt="Animación" style="width:80%;">
 
-<a href="https://drive.google.com/file/d/1Pb5Kb_gnG_cimbJn4HzBb-o5rn9lX0bj/view?usp=sharing">Video</a>
 
 
 ## Comenzando 🚀
