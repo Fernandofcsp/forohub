@@ -41,13 +41,14 @@ public class UsuarioController {
         // Verificar si el usuario ya existe
         if (usuarioRepository.findByUsername(usuarioDto.getUsername()).isPresent()) {
             return ResponseEntity.status(HttpStatus.CONFLICT)
-                    .body(null); // Puedes manejar esto como prefieras, por ejemplo, devolver un mensaje de error
+                    .body(null);
         }
 
         // Crear el nuevo usuario
         Usuario nuevoUsuario = new Usuario();
         nuevoUsuario.setUsername(usuarioDto.getUsername());
         nuevoUsuario.setPassword(passwordEncoder.encode(usuarioDto.getPassword())); // Codificar la contraseña
+        nuevoUsuario.setEmail(usuarioDto.getEmail());
 
         Usuario usuarioGuardado = usuarioRepository.save(nuevoUsuario);
         return ResponseEntity.status(HttpStatus.CREATED).body(usuarioGuardado);
