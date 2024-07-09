@@ -103,6 +103,7 @@ forohub/
 ```
 
 ##Descripción de los paquetes: 📦
+
 Configuracion de swagger OpenApi (Actualmente en desarrollo pues no aparece la opcion de Authorize, las consultas a los endpoints se hacen en postman por el momento):
 
 * config: Configuraciones del proyecto, como OpenAPI.
